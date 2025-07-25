@@ -31,25 +31,35 @@
 `Git`, `GitHub`, `Linux`, `Docker`, `Postman`, `AWS`, `Google Cloud`
 
 ---
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-### 📌 Projects:
-Here are some featured projects from my repositories:
-
-- 🔬 [**Medical Chatbot using Generative AI**](https://github.com/Shubam081220/End-to-End-Medical-Chat-Bot-Generative-AI) — Conversational bot powered by LLMs for healthcare Q&A  
-- 📄 [**Resume Screening System**](https://github.com/Shubam081220/Resume-Checking) — Automated resume screening using NLP and skill-matching %  
-- 🎓 [**College Chatbot**](https://github.com/Shubam081220/College_chatbot) — Hybrid chatbot combining FAQ & open-ended responses with T5  
-- 📈 [**Stock Price Predictor**](https://github.com/Shubam081220/Stock-Price-Prediction-LSTM) — LSTM-based model for time-series stock forecasting  
-- ✍️ [**Text Summarizer App**](https://github.com/Shubam081220/Text-Summarizer) — Summarizes large text using transformers  
-- 📊 [**Twitter Sentiment Analysis**](https://github.com/Shubam081220/Sentiment-Analysis-Twitter) — Analyzes public opinion using NLP  
-- 🖐️ [**Air Gesture Volume Control**](https://github.com/Shubam081220/Air-Gesture-Volume-Control) — Real-time hand tracking to control volume  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubam081220&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubam081220&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubam081220&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubam081220&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shubam081220&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -66,3 +76,5 @@ Here are some featured projects from my repositories:
 
 
 ---
+
+
