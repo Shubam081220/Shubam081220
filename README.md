@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shubam+Lunawat!;Data+Analyst+%7C+ML+Engineer+%7C+Fullstack+Dev;Welcome+to+my+GitHub+profile!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shubam+Lunawat!;Data+Analyst+%7C+ML+Engineer+%7C+Fullstack+Dev+%7C+Software+Engineer;Welcome+to+my+GitHub+profile!&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Location-Chennai,%20India-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-success?style=flat-square" />
   <img alt="Profile Visitors" src="https://komarev.com/ghpvc/?username=Shubam081220&style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/github/followers/Shubam081220?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Shubam081220?label=Stars&style=flat-square" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shubam081220&theme=algolia&column=9)](https://github.com/Shubam081220)
