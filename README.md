@@ -11,7 +11,6 @@
 </a>
   <img src="https://img.shields.io/badge/Location-Chennai,%20India-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-success?style=flat-square" />
-  <img alt="Profile Visitors" src="https://komarev.com/ghpvc/?username=Shubam081220&style=flat-square&color=blue"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shubam081220&theme=algolia&column=9)](https://github.com/Shubam081220)
